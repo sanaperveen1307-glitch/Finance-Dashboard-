@@ -6,7 +6,8 @@
 
 
 ## Dataset Used
-<a href="https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Income%20satement.csv>Icome statement data </a>
+
+- Income Statement Data<a href="https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Income%20satement.csv"> Veiw Dataset </a>
 "https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Balance%20sheet%20yearly%20data.csv" , Balance sheet
 "https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Actual%20Vs%20BUDGET.csv", Actual & Budget 
 ## Process 
