@@ -44,3 +44,4 @@
 - Visualization: Designed a multi-page dashboard, including a Finance ,Overveiw , last year , Actual & Budget Analysis , Income Statement and  Balannce Sheet .
 
 ## Dasboard 
+"https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Finance%20Dashboard.pbit" DASHBOARD
