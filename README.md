@@ -8,8 +8,8 @@
 ## Dataset Used
 
 - Income Statement Data<a href="https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Income%20satement.csv"> Veiw Dataset </a>
-"https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Balance%20sheet%20yearly%20data.csv" , Balance sheet
-"https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Actual%20Vs%20BUDGET.csv", Actual & Budget 
+- Balance Sheet Data <a href="https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Balance%20sheet%20yearly%20data.csv"> Veiw Data set <</a>
+-Actual and Budget Data<a href="https://github.com/sanaperveen1307-glitch/Finance-Dashboard-/blob/main/Actual%20Vs%20BUDGET.csv"> Veiw Data set </a>
 ## Process 
 
 -Data Acquisition: Downloaded the dataset from Kaggle.
