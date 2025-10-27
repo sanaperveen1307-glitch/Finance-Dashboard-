@@ -18,7 +18,8 @@
 
 ## Finance Overveiw 
 
-<img width="1322" height="741" alt="Finance Overveiw" src="https://github.com/user-attachments/assets/b6892ac5-8f41-45bd-9ea4-8494ab451d44" />
+<img width="1298" height="727" alt="Finance " src="https://github.com/user-attachments/assets/346d6e65-955b-45eb-becf-278569bb18dc" />
+
 
 ## Last Year Analysis
 
